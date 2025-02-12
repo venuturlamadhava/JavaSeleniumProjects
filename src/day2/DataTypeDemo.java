@@ -48,6 +48,8 @@ public class DataTypeDemo
 		
 		//String bl=true; //not valid
 		String bl="true"; //valid
+		
+		
 	}
 
 }
