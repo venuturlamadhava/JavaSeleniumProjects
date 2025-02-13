@@ -4,7 +4,7 @@ public class TernaryOperator {
 
 	public static void main(String[] args) 
 	{
-	//var=exp ? result1:result2;
+	//var=(exp) ? result1:result2;
 		
 		//Example1
 		/*int a=200, b=100;
